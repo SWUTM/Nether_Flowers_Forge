@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "nether_flowers:warped_crimson_azure_bluet"
+    }
+  ],
+  "result": {
+    "item": "minecraft:pink_dye",
+    "count": 2
+  }
+}

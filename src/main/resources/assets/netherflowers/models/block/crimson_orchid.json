@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "netherflowers:block/crimson_orchid"
+  }
+}
